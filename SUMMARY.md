@@ -7,7 +7,7 @@
   * [快速开始](bu-shu-pian/kuai-su-kai-shi.md)
   * [云原生部署](bu-shu-pian/yun-yuan-sheng-bu-shu.md)
   * [二进制部署](bu-shu-pian/er-jin-zhi-bu-shu.md)
-  * [生产级部署建议](bu-shu-pian/sheng-chan-ji-bu-shu-jian-yi.md)
+  * [生产部署建议](bu-shu-pian/sheng-chan-bu-shu-jian-yi.md)
   * [监控部署](bu-shu-pian/jian-kong-bu-shu.md)
 * [使用篇](shi-yong-pian/README.md)
   * [制品仓库](shi-yong-pian/zhi-pin-cang-ku/README.md)
