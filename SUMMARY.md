@@ -1,7 +1,6 @@
 # Table of contents
 
-* [关于作者](README.md)
-* [关于这本书](<README (1).md>)
+* [关于这本书](README.md)
 * [蓝鲸制品库介绍](lan-jing-zhi-pin-ku-jie-shao.md)
 * [部署篇](bu-shu-pian/README.md)
   * [快速开始](bu-shu-pian/kuai-su-kai-shi.md)
@@ -33,3 +32,4 @@
   * [全球制品分发网络](nei-bu-shi-xian/quan-qiu-zhi-pin-fen-fa-wang-luo.md)
 * [故障处理](gu-zhang-chu-li/README.md)
   * [存储告警](gu-zhang-chu-li/cun-chu-gao-jing.md)
+* [关于作者](guan-yu-zuo-zhe.md)
