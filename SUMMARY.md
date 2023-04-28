@@ -1,6 +1,7 @@
 # Table of contents
 
-* [关于这本书](README.md)
+* [关于作者](README.md)
+* [关于这本书](<README (1).md>)
 * [蓝鲸制品库介绍](lan-jing-zhi-pin-ku-jie-shao.md)
 * [部署篇](bu-shu-pian/README.md)
   * [快速开始](bu-shu-pian/kuai-su-kai-shi.md)
